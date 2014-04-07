@@ -4,7 +4,7 @@
   "description": "Default options for nopt",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/btmills/nopt-defaults/issues"
   },
-  "homepage": "https://github.com/btmills/nopt-defaults"
+  "homepage": "https://github.com/btmills/nopt-defaults",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
 }
