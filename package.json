@@ -1,6 +1,6 @@
 {
   "name": "nopt-defaults",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Default options for nopt",
   "main": "index.js",
   "scripts": {
